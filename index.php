@@ -23,28 +23,39 @@
     <!-- Start banner Section -->
     <?php include ('php/home/banner.php') ?>
     <!-- End banner Section -->
-    <div class="tagline text-center" style="
-    /* margin-top: 35px; */
-    background: #efefef url('images/logo.png');
-    box-shadow: 0 1px 2px rgba(0,0,0,.3);
-    padding: 50px;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: 30%;
-    opacity: .2;
-">
-        <h2 style="
-    font-size: 3em;
-    font-weight: normal;
-    color: grey;
-    margin-bottom: 24px;
-    letter-spacing: .08em;
-">NEC TAMEN CONSUMEBATUR</h2>
-        <p style="
-    font-size: 18px;
-">“The bush burns, but is not consumed”</p>
-    </div>
-    
+        <div class="tagline text-center" style="
+            /* margin-top: 35px; */
+            background: #efefef url('images/logo.png');
+            box-shadow: 0 1px 2px rgba(0,0,0,.3);
+            padding: 50px;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: 30%;
+            opacity: .2;
+            height: 174px;
+        ">
+            
+        </div>
+        <div style="
+            text-align: center;
+            position: relative;
+            margin-top: -150px;
+            margin-bottom: 42px;
+        ">
+            <h2 style="
+                font-size: 3em;
+                /* font-weight: normal; */
+                /* color: grey; */
+                margin-bottom: 24px;
+                letter-spacing: .08em;
+                /* position: relative; */
+                /* top:-174px; */
+            ">NEC TAMEN CONSUMEBATUR</h2>
+            <p style="
+            font-size: 18px;
+            color: #333;
+            ">"The bush burns, but is not consumed"</p>
+        </div>
     
 
 
